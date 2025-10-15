@@ -3,7 +3,7 @@
 A modern, responsive portfolio website built with HTML5, CSS3, and JavaScript, demonstrating web development skills and best practices.
 
 ## 🌐 Live Website
-[View Live Website](https://your-username.github.io/portfolio-website)
+[View Live Website](https://plp-webtechnologies-classroom-july2-bice.vercel.app/)
 
 ## 📋 Project Overview
 
@@ -29,6 +29,8 @@ This multipage website serves as a professional portfolio showcasing web develop
 - ✅ Smooth scrolling and animations
 - ✅ FAQ accordion functionality
 - ✅ Modern CSS Grid and Flexbox layouts
+- ✅ Professional CV integration
+- ✅ PWA features with service worker
 - ✅ Accessibility features
 - ✅ SEO optimized
 
@@ -55,11 +57,16 @@ portfolio-website/
 ├── index.html              # Home page
 ├── about.html              # About page
 ├── contact.html            # Contact page
+├── Mwanaisha_Salim_CV.html # Professional CV
 ├── css/
 │   └── styles.css          # Main stylesheet
 ├── js/
 │   └── script.js           # JavaScript functionality
-├── images/                 # Image assets (placeholder)
+├── images/                 # Image assets
+│   └── profile.jpg         # Professional profile photo
+├── sw.js                   # Service worker for PWA
+├── DEPLOYMENT.md           # Deployment guide
+├── .gitignore             # Git ignore file
 └── README.md              # Project documentation
 ```
 
